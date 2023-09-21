@@ -1014,6 +1014,9 @@ h1, h2, h3, h4, h5,
 
 #date-countdown .countdown-block {
   color: #b3b3b3; }
+  
+.countdown-block{
+  text-align:center;}
 
 #date-countdown .label {
   font-size: 40px;
